@@ -42,3 +42,7 @@ Educational institutions face growing pressure to improve student outcomes while
 ## Data Note
 
 The dataset used in this notebook was provided in a controlled academic setting and is loaded directly from a hosted source. Sensitive fields were anonymised as part of preprocessing.
+
+## Supporting Material
+
+For a non-technical summary of the business application and findings, see the [Stakeholder Report (PDF)](./stakeholder_report.pdf).
