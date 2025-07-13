@@ -66,17 +66,6 @@ To respect this confidentiality:
 
 ---
 
-## File Structure
-
-puregym-nlp-topic-modelling/
-│
-├── README.md                            # Project overview 
-├── requirements.txt                     # Libraries used
-├── student_dropout_prediction.ipynb       # Main Jupyter notebook with main workflow
-└── stakeholder_report.pdf   
-
----
-
 ## Supporting Material
 
 For a non-technical summary of the business application and findings, see the [Stakeholder Report (PDF)](./stakeholder_report.pdf).
